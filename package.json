@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test",
+    "ganache": "ganache-cli",
+    "compile": "truffle compile",
+    "deploy": "truffle deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "dotenv": "^8.2.0",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.1.66"
+  }
+}
