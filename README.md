@@ -1,3 +1,3 @@
-# basic-smart-contract
+# Basic smart contract
 
-## A basic smart contract buit with solidity 
+### A basic smart contract buit with solidity 
